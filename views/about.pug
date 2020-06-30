@@ -1,0 +1,46 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        //- Add your name.
+        h1 Eugene Leychenko
+
+        //- Feel free personalize the title below
+        p.lead.text-light
+          | Full Stack JavaScript Developer Extraordinaire.
+
+        //- Replace the boilerplate below with your Elevator pitch below.
+        .portfolio-bio
+          p
+            | I have been teaching PM at General Assembly close to 4 years. Here I get to learn from students about the trials and tribulations they have in their roles at PMs, teach how PM should be done by the book, and lastly integrate lessons I’ve learned from my clients. Additionally, I write a lot (over 100 posts) on Medium about Product Management and Strategy.
+            
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        //- Replace the text in the li tags below with your own skills.  At this point, you should be able to list at least ten skills.
+        ul
+          li Express
+          li Node
+          li Vanilla JS
+          li Nodemon
+          li jQuery 
+          li CSS
+        h6 Contact Info
+
+        //- Add your own contact info
+        ul
+          li 555-555-1234
+          li eugene@citadinesgroup.com
+
+        //- Add URLs to the hrefs below to link to your social media accounts.
+        a.button.expanded(href='https://www.linkedin.com/in/eugene-leychenko/') LinkedIn
+        a.button.expanded(href='https://github.com/techdegreeEugene') GitHub
+        a.button.expanded(href='http://www.medium.com/@Citadines_Group') Medium
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  

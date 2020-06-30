@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content
+	section.error
+		h1= `${error.message} - Status: ${error.status}`
+		a.button.expanded(href='/') Return to home page
+		div
+			pre.stack-trace= error.stack

@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "project_name": "Random Quote Generator",
+        "description": "Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": ["https://techdegreeeugene.github.io/techdegree-project-1/"],
+        "github_link": "https://github.com/techdegreeEugene/techdegree-project-1",
+        "image_url": ["https://p197.p4.n0.cdn.getcloudapp.com/items/v1uegPmO/Image%202020-06-29%20at%203.30.01%20PM.png?v=50379ed627260816c1ce494def65a0bc"]
+      },
+      {
+        "id": 2,
+        "project_name": "List Pagination and Filtering",
+        "description": "Displaying a long list of items on a web page, like a list of 200 movie titles or 400 products, can overwhelm a user with too much information at once. A common solution is to display a handful of items on one page and provide navigation to jump to a list of more items. In this project, you'll write JavaScript to divide a long list into a series of 'pages' and improve the user experience of a web page.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": ["https://techdegreeeugene.github.io/techdegree-project-2/"],
+        "github_link": "https://github.com/techdegreeEugene/techdegree-project-2",
+        "image_url": ["https://p197.p4.n0.cdn.getcloudapp.com/items/2Nu5zbBr/Image%202020-06-29%20at%203.30.29%20PM.png?v=7790f172944da466f39113f8e0c677be"]
+      },
+      {
+        "id": 3,
+        "project_name": "Interactive Form",
+        "description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": ["https://techdegreeeugene.github.io/techdegree-project-3/"],
+        "github_link": "https://github.com/techdegreeEugene/techdegree-project-3",
+        "image_url": ["https://p197.p4.n0.cdn.getcloudapp.com/items/mXuAYDq4/Image%202020-06-29%20at%203.30.54%20PM.png?v=b5ea7e087d25f6d590b6bb40768f98b2"]
+      },
+      {
+        "id": 4,
+        "project_name": "OOP Game Show App",
+        "description": "Create a browser-based, word guessing game: 'Phrase Hunter.' You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+        "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
+        "live_link": ["https://techdegreeeugene.github.io/techdegree-project-4/"],
+        "github_link": "https://github.com/techdegreeEugene/techdegree-project-4",
+        "image_url": ["https://p197.p4.n0.cdn.getcloudapp.com/items/X6uoEKOm/Image%202020-06-29%20at%203.31.51%20PM.png?v=4f090e204bf75b09f2655aaed55d78f5"]
+      },
+      {
+        "id": 5,
+        "project_name": "Public API Requests",
+        "description": "Create a browser-based, word guessing game: 'Phrase Hunter.' You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+        "technologies": ["HTML", "CSS", "JavaScript", "API"],
+        "live_link": ["https://techdegreeeugene.github.io/techdegree-project-5/"],
+        "github_link": "https://github.com/techdegreeEugene/techdegree-project-5",
+        "image_url": ["https://p197.p4.n0.cdn.getcloudapp.com/items/6qu2Zb2Y/Image%202020-06-29%20at%203.32.16%20PM.png?v=f4de50a2b1324c5f0447cbafaff462f2"]
+      }
+
+    ]}
