@@ -15,7 +15,7 @@ block content
       .cell.portfolio-meta.small-6.medium-2.large-3
         h6 Technologies
 
-        //- Iterate through technologies used in project
+        
         ul
           each technology in project.technologies
             li= technology
@@ -23,7 +23,7 @@ block content
         a.button.expanded(href=`${project.live_link}` target='_blank') Live Demo
         a.button.expanded(href=`${project.github_link}` target='_blank') GitHub Repo
     
-    //- Display three project images
+    
     img.image(src=`${project.image_url}`)
     
   nav.grid-container.portfolio-breadcrumb
